@@ -179,9 +179,11 @@ The Bar plot is a great visualization tool to show which sentiment is the most p
 | ----- | --------- | ------ | -------- | ----- |
 | <img src="Images/apple.png" /> | <img src="Images/microsoft.png" /> | <img src="Images/amazon.png" /> | <img src="Images/facebook.png" /> | <img src="Images/tesla.png" /> | 
  
-The above bar charts show the most positive sentiment for Amazon and the most negative sentiment for Apple on January 11, 2021. The users may need to be aware of the limitation of such analysis because basic Twitter API allows 100 tweets for each API query calls. The sentiment may not reflect the overall sentiment of the company. However, Twitter provides Enterprise Twitter API for a price for the user to request public historical tweets without limitation. Without payment, the most we can do is to gain insight into the sentiment of the company on a glimpse of a moment on Twitter based on 100 tweets.
+The above bar charts show the most positive sentiment for Amazon and the most negative sentiment for Apple on January 11, 2021. The users may need to be aware of the limitation of such analysis because basic Twitter API allows 100 tweets for each API query calls. The sentiment may not reflect the overall sentiment of the company.
+
+However, Twitter provides Enterprise Twitter API for a price for the user to request public historical tweets without limitation. Without payment, the most we can do is to gain insight into the sentiment of the company on a glimpse of a moment on Twitter based on 100 tweets.
 
 ---
 ### Created by
 
-__Dana K Lain__, Profile: [LinkedIn](www.linkedin.com/in/dana-kyine-lain)
+__Dana K Lain__, Profile: [LinkedIn](www.linkedin.com/in/dana-kyine-lain), [Twitter](https://twitter.com/lain_dana)
