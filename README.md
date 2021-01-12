@@ -186,4 +186,4 @@ However, Twitter provides Enterprise Twitter API for a price for the user to req
 ---
 ### Created by
 
-__Dana K Lain__, Profile: [LinkedIn](www.linkedin.com/in/dana-kyine-lain), [Twitter](https://twitter.com/lain_dana)
+__Dana K Lain__, Profile: [LinkedIn](https://linkedin.com/in/dana-kyine-lain), [Twitter](https://twitter.com/lain_dana)
