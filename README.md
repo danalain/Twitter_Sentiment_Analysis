@@ -21,7 +21,7 @@ To analyze the sentiment of these 5 companies, we must accomplish the following 
 
 ## File
 
-1. [Codes for Twitter Sentiment Analysis](sentiment_analysis.ipynb)
+1. [Codes for Twitter Sentiment Analysis](Codes/sentiment_analysis.ipynb)
 
 ---
 ### Requesting Text Data Using Twitter API
